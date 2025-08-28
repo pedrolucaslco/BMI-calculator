@@ -1,5 +1,5 @@
 # BMI-calculator
-A simple BMI calculator for JavaScript pratices
+A simple BMI calculator for JavaScript pratices...
 
 View demo: https://pedrolucaslcosta-js-bmi-calculator.netlify.app
 
